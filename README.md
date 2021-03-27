@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zero304, this is my nickname.
+- 👀 I’m interested in python coding, in points of intersection with communication and RF engineering.
+- 💞️ I’m looking to collaborate on antenna libraries where my main focus is directed to.
